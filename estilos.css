@@ -9,6 +9,25 @@ body{
 p{
     text-align: justify;
 }
+a:link {
+    color: #c8a000;
+    text-decoration: none;
+}
+a:visited {
+    color: #8a6e00;
+    text-decoration: none;
+}
+a:hover {
+    color: #c8a000;
+    text-decoration: underline;
+}
+a:active {
+    color: #ff8c00;
+    text-decoration: underline;
+}
+a[href^="http"] {
+    background-color: #fff3b0;
+}
 
 #topo {
     background-color: #ffffff44;
