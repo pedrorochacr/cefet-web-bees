@@ -25,3 +25,15 @@ img[src*="logomarca"]{
     float: left;
     margin-right: 20px;
 }
+.casta-de-abelha {
+    border-radius: 50%;
+    border: 5px double #c8a000;
+}
+.esquerda {
+    float: left;
+    margin-right: 20px;
+}
+.direita {
+    float: right;
+    margin-left: 20px;
+}
