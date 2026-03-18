@@ -28,6 +28,10 @@ a:active {
 a[href^="http"] {
     background-color: #fff3b0;
 }
+p:last-child {
+    text-align: right;
+}
+
 
 #topo {
     background-color: #ffffff44;
