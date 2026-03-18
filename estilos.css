@@ -10,6 +10,11 @@ p{
     text-align: justify;
 }
 
+#topo {
+    background-color: #ffffff44;
+    box-shadow: 4px 4px 4px #0003;
+    padding: 30px;
+}
 img[src*="logomarca"]{
    display: block;
   margin-left: auto;
