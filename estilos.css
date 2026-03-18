@@ -65,3 +65,6 @@ img[src*="logomarca"]{
     float: right;
     margin-left: 20px;
 }
+#curiosidade-rainha {
+    clear: left;
+}
